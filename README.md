@@ -1,2 +1,2 @@
 # Data
-Collection of Data Anlytics Projects
+Collection of Data Analytics Projects
